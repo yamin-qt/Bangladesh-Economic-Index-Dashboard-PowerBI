@@ -93,4 +93,8 @@ This type of dashboard can be used by:
 ## 📸 Dashboard Preview
 
 
-https://github.com/user-attachments/assets/6332ebe0-14ac-4c0d-86c8-5b1e9a6300bb
+
+
+https://github.com/user-attachments/assets/bd8b7dde-1dca-4472-bb3e-1087d82538ff
+
+
